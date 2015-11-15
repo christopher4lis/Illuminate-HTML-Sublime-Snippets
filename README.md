@@ -11,6 +11,6 @@ A library of Sublime Text snippets that will drastically speed up your Laravel f
 ##Usage
 |  Triggers   	  |  Description                                        |
 |:--------------|-------------------------------------------------|
-|  textfield    	|  Creates an HTML textfield with a corresponding label.  |
-|  textareafield    	|  Creates an HTML textarea with a corresponding label.  |
-|  submitfield    	|  Creates an HTML submit button.  |
+|  `textfield`    	|  Creates an HTML textfield with a corresponding label.  |
+|  `textareafield`    	|  Creates an HTML textarea with a corresponding label.  |
+|  `submitfield`    	|  Creates an HTML submit button.  |
