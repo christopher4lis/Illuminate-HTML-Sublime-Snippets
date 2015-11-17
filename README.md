@@ -15,6 +15,7 @@ Credit goes out to Jeffrey Way who used these snippets within his Laravel 5 Fund
 |:--------------|-------------------------------------------------|
 |  `textfield`    	|  Creates an HTML textfield with a corresponding label.  |
 |  `textareafield`  |  Creates an HTML textarea with a corresponding label.  |
+|  `datefield`      |  Creates an HTML date input with a corresponding label.  |
 |  `submitfield`    |  Creates an HTML submit button.  |
 
 

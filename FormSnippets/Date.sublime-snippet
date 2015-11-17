@@ -1,12 +1,13 @@
 <snippet>
 	<content><![CDATA[
-<!-- ${1:Form Name} Submit Button -->
+<!-- ${1:value: String?} Form Input -->
 <div class="form-group">
-	{!! Form::submit('${2:name: String}', ${3:Array('${4:class}' => '${5:btn btn-primary form-control}')}) !!}
+	{!! Form::label('${2:name: String}', '${1:value: String?}') !!}
+	{!! Form::input('date', '${2:name: String}', ${3:date('Y-m-d')}, ${5:Array('${6:class}' => '${7:form-control}')}) !!}
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>submitfield</tabTrigger>
+	<tabTrigger>datefield</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
