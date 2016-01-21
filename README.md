@@ -1,5 +1,5 @@
 # Illuminate-HTML-Sublime-Snippets
-Code lightning fast Laravel forms with this library of Sublime snippets. The contents of these snippets require use of the `illuminate/html` Laravel package, be sure it's included within your Laravel install.
+Code Laravel forms at lightning speed with Illuminate HTML Sublime Snippets. The contents of these snippets require use of the `illuminate/html` Laravel package so be sure it's included within your Laravel install.
 
 Credit goes out to Jeffrey Way who used these snippets within his Laravel 5 Fundamentals course on Laracasts.
 
